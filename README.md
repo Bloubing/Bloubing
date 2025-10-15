@@ -12,7 +12,7 @@
 
 **Front-end**
 
-`Vue.js` • `Tailwind`
+`Vue.js` • `Tailwind` • `React` 
 
 **Back-end**
 
